@@ -1,13 +1,9 @@
-# Homelab
-Documentação dos ambientes de HomeLab no LHC.
+# Homelab Hackerpsace
 
-construções de servidores e recursos para membros rodarem projetos.
+Atividades de laboratório para o uso dos membros do hackerspace.
 
-# Desktop
-[x] Portainer.io 
 
-# Dash
-[Healthchecks.io](https://healthchecks.io/)
+Frente iniciada a partir dos encontros do CoffeeOps e conversas internas com os associados.
 
-# Devices
-[ESPHome](https://esphome.io/)
+# Maio 2024
+- [configurando]

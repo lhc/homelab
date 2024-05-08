@@ -10,4 +10,4 @@ Frente iniciada a partir dos encontros do CoffeeOps e conversas internas com os 
 
 # Segundo semestre
 
--[https://github.com/irods/irods](irdos)
+-(https://github.com/irods/irods)[TESTAR irdos]

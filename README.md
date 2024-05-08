@@ -7,3 +7,7 @@ Frente iniciada a partir dos encontros do CoffeeOps e conversas internas com os 
 
 # Maio 2024
 - [configurando]
+
+# Segundo semestre
+
+-[https://github.com/irods/irods](irdos)

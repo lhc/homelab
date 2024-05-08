@@ -11,3 +11,4 @@ Frente iniciada a partir dos encontros do CoffeeOps e conversas internas com os 
 # Segundo semestre
 
 [The Integrated Rule-Oriented Data System (iRODS) TESTE](https://github.com/irods/irods)
+ -[Mais informações sobre o iRODS](https://irods.org/download/)
